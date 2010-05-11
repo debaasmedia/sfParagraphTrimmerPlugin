@@ -1,3 +1,3 @@
 [submodule "lib/vendor/DeBaasMedia/ParagraphTrimmer"]
 	path = lib/vendor/DeBaasMedia/ParagraphTrimmer
-	url = https://marijn@github.com/debaasmedia/php-paragraph-trimmer.git
+	url = git@github.com:debaasmedia/php-paragraph-trimmer.git
